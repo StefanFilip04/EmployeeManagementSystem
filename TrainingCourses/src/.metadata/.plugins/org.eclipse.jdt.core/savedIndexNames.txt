@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\17sfi\OneDrive - Technological University Dublin\YEAR 2\ADS CA1 V1\TrainingCourses\src\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-846604544.index
-1880174268.index
