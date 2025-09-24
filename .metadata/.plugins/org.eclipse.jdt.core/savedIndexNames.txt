@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\17sfi\OneDrive\Desktop\ADS CA1 fixed\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-1529476855.index
-1880174268.index
