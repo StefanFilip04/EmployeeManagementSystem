@@ -14,7 +14,7 @@ This Java-based console application allows you to manage employee training recor
 - Export employee data to a file (`employee.txt`).
 - Automatically saves and loads employee data on program start and exit.
 
-## Requirements
+## Requirements 
 - Java 8 or higher
 - Console or terminal environment to run the application
 
