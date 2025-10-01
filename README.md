@@ -8,7 +8,7 @@ This Java-based console application allows you to manage employee training recor
 - Display all employee records.
 - Remove employees by their employee number.
 - Find employees by course name.
-- Display statistics about employee courses.
+- Display statistics about employee courses. 
 - Sort employees by name or years of experience.
 - Import employee data from a file (`employee.txt`).
 - Export employee data to a file (`employee.txt`).
